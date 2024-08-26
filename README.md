@@ -1,2 +1,1 @@
-# goapi
-Rest API's in GO
+#REST API's in GO
